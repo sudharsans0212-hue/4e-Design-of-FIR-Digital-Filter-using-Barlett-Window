@@ -193,5 +193,9 @@ title('Frequency Response of FIR BSF using Bartlett Window');
 
 <img width="755" height="716" alt="image" src="https://github.com/user-attachments/assets/0dd763ea-33cd-474d-ab02-57efd04dce10" />
 
+# Manual Calculation
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/d399f3a5-acca-4a7b-8ea2-2bfa4b11e2fb" />
+
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Barlett-Window waveforms were plotted and output was verified.
